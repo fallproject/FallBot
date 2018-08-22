@@ -12,8 +12,5 @@
   },
   "devDependencies": {
     "dotenv": "^6.0.0"
-  },
-  "scripts": {
-    "docs:start": "cd docs && yarn vuepress dev ."
   }
 }
