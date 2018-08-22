@@ -1,6 +1,7 @@
 const Discord = require('discord.js')
 const CommandsBuilder = require("./commands.js")
-const { prefix, token, debug } = require('./env.json')
+require('dotenv').config()
+const { prefix, token, debug } = process.env
 gloabl.chalk = require('chalk')
 global.log = (message) => {
 	console.log(`${chalk.keyword('orange')('[FallBot]')} ${message}`)
