@@ -8,7 +8,7 @@ footer: MIT Licensed | Copyright © 2018-present fall project & contributors
 # Contributors
 | User | Code | Host |
 | :-: | :-: | :-: |
-|[![](https://avatars0.githubusercontent.com/u/22580997?s=460&v=4)SimplyCodin](https://github.com/simplycodin)| ✔️ | ✔️ |
+|<a href="https://github.com/simplycodin"> <img src="https://avatars0.githubusercontent.com/u/22580997" width="75px" alt="fall simpy"> <span>fall simply<span> </a> | ✔️ | ✔️ |
 <style>
 	img {
 		height: 75px;
